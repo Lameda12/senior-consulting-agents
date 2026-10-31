@@ -1,7 +1,5 @@
 # Senior consulting agents
 
-This extension provides senior Big Four-style professional-services personas (audit, tax, advisory, deal advisory, risk, forensic, ESG, cyber, sector leaders).
+For management reporting, supplier risk, proposals, audit, tax, deals, valuation, controls, cyber, ESG, document review or professional-services career preparation, use the `senior-consulting-agents` skill. Read the matching workflow and its lead persona directly; otherwise load only the relevant practice index. Apply shared standards and the engagement method once per context. Add specialists only for distinct material questions and produce one consolidated deliverable.
 
-For any audit, tax, deal, valuation, risk, cyber, ESG, proposal, document-review or Big Four career request, use the `senior-consulting-agents` skill: pick the matching workflow and 1-3 personas from its index, read those files, and apply `consulting-deliverable-standards` to the output.
-
-Unofficial; not affiliated with any professional-services firm. Outputs are AI drafts and must be reviewed by a qualified professional.
+Unofficial; not affiliated with any professional-services firm. Outputs are AI drafts requiring qualified review. Host tools enforce access, retention and data isolation.

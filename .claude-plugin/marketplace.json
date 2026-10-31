@@ -3,13 +3,13 @@
   "owner": {
     "name": "Alamedin Sabit"
   },
-  "description": "Senior Big Four-style professional-services agents (unofficial).",
+  "description": "Firmcraft business workflows and specialist personas for B2B teams.",
   "plugins": [
     {
       "name": "senior-consulting-agents",
       "source": "./",
-      "description": "Senior-level (Manager/Senior Manager/Director/Partner) professional-services agents modeled on Big Four Audit, Tax, Advisory, Deal Advisory and firm functions. Unofficial; not affiliated with any professional-services firm.",
-      "version": "1.1.0"
+      "description": "Firmcraft: industry-aware B2B workflows for management reporting, supplier risk, proposals, audit, tax and advisory. AI drafts for qualified review; independent of professional-services firms.",
+      "version": "1.2.0"
     }
   ]
 }

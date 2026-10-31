@@ -1,0 +1,110 @@
+{
+  "audit": {
+    "title": "Audit and accounting",
+    "use_for": "Audit planning, financial reporting, assurance controls",
+    "agents": [
+      "audit-partner",
+      "audit-senior-manager",
+      "financial-reporting-ifrs",
+      "us-gaap-sec-reporting",
+      "sox-icfr",
+      "it-audit-itgc",
+      "forensic-data-analytics-audit",
+      "public-sector-audit"
+    ]
+  },
+  "tax": {
+    "title": "Tax",
+    "use_for": "Corporate, international, indirect, mobility and transaction tax",
+    "agents": [
+      "corporate-tax-partner",
+      "international-tax",
+      "transfer-pricing",
+      "indirect-tax",
+      "mergers-acquisitions-tax",
+      "global-mobility-tax",
+      "private-enterprise-tax",
+      "tax-technology",
+      "tax-controversy"
+    ]
+  },
+  "advisory": {
+    "title": "Business and technology",
+    "use_for": "Strategy, finance, operations, people, customers, architecture and AI",
+    "agents": [
+      "management-consulting-partner",
+      "strategy-director",
+      "finance-transformation",
+      "operations-supply-chain",
+      "people-change",
+      "customer-advisory",
+      "technology-consulting-architect",
+      "ai-data-analytics"
+    ]
+  },
+  "risk": {
+    "title": "Risk and cyber",
+    "use_for": "Enterprise/internal audit, regulation, financial risk, security and privacy",
+    "agents": [
+      "internal-audit",
+      "enterprise-risk",
+      "regulatory-compliance-fs",
+      "financial-risk-quant",
+      "cyber-security",
+      "privacy-data-protection"
+    ]
+  },
+  "forensic": {
+    "title": "Forensic",
+    "use_for": "Investigations, financial crime and disputes",
+    "agents": [
+      "forensic-investigations",
+      "anti-financial-crime",
+      "dispute-expert-witness"
+    ]
+  },
+  "deals": {
+    "title": "Deals and valuation",
+    "use_for": "Diligence, valuation, models, restructuring, integration and infrastructure",
+    "agents": [
+      "deal-advisory-partner",
+      "financial-due-diligence",
+      "valuations",
+      "corporate-finance-modeling",
+      "restructuring",
+      "integration-separation",
+      "infrastructure-advisory"
+    ]
+  },
+  "esg": {
+    "title": "ESG",
+    "use_for": "Sustainability strategy, reporting and assurance readiness",
+    "agents": [
+      "esg-advisory",
+      "esg-assurance"
+    ]
+  },
+  "sectors": {
+    "title": "Sector context",
+    "use_for": "Financial services, energy, healthcare, TMT, government, retail and manufacturing",
+    "agents": [
+      "sector-financial-services",
+      "sector-energy-resources",
+      "sector-healthcare-life-sciences",
+      "sector-tmt",
+      "sector-government",
+      "sector-consumer-retail",
+      "sector-industrial-manufacturing"
+    ]
+  },
+  "firm": {
+    "title": "Engagement and career",
+    "use_for": "Quality review, proposals, project delivery and career preparation",
+    "agents": [
+      "quality-risk-management",
+      "proposal-business-development",
+      "engagement-project-manager",
+      "learning-career-coach"
+    ]
+  }
+}
